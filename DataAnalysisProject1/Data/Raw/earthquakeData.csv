@@ -1,0 +1,20 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+2013-11-10T19:18:45.000Z,58.9533,-151.2979,11,3.6,Ml,63,126,0.57222684,0.68,ak,ak10842637,2013-11-10T19:28:37.536Z,"78km S of Homer, Alaska",earthquake
+2013-11-10T12:24:08.780Z,-14.577,167.4162,176.35,4.5,mb,,60,7.511,0.99,us,usb000kvir,2013-11-10T20:26:41.893Z,"65km NE of Port-Olry, Vanuatu",earthquake
+2013-11-10T09:18:48.600Z,19.1767,-64.926,18,2.8,Md,5,262.8,0.71505897,0.28,pr,pr13314003,2013-11-10T11:48:05.594Z,"90km NNW of Road Town, British Virgin Islands",earthquake
+2013-11-10T09:03:05.350Z,-56.673,-150.6566,10,4.8,mb,,77,25.709,0.85,us,usb000kvhj,2013-11-10T17:05:35.301Z,"Pacific-Antarctic Ridge",earthquake
+2013-11-10T08:38:34.400Z,18.8985,-64.4369,30,2.8,Md,7,273.6,0.19493442,0.11,pr,pr13314002,2013-11-10T11:47:09.409Z,"56km NNE of Road Town, British Virgin Islands",earthquake
+2013-11-10T08:23:03.000Z,59.4566,-154.8541,100,2.7,Ml,24,302.4,1.07887666,2.5,ak,ak10842547,2013-11-10T08:30:13.534Z,"32km S of Old Iliamna, Alaska",earthquake
+2013-11-10T06:35:59.450Z,52.4902,-168.6159,38.32,4.2,mb,,140,0.504,0.79,us,usb000kvg0,2013-11-10T07:22:49.000Z,"52km SSE of Nikolski, Alaska",earthquake
+2013-11-10T05:24:35.210Z,37.2562,145.0408,10.09,4.8,mb,,91,4.969,0.69,us,usb000kvf7,2013-11-10T13:27:13.313Z,"Off the east coast of Honshu, Japan",earthquake
+2013-11-10T05:15:10.130Z,38.4068,68.9689,17.79,5.2,mb,,37,2.189,1.37,us,usb000kvf2,2013-11-10T10:01:57.421Z,"11km NNW of Yovan, Tajikistan",earthquake
+2013-11-10T04:40:11.300Z,18.975,-68.097,79,3.2,Md,8,255.6,0.53180265,0.4,pr,pr13314001,2013-11-10T07:54:45.176Z,"54km NE of Punta Cana, Dominican Republic",earthquake
+2013-11-10T04:11:54.350Z,48.3581,153.7892,90.08,4.5,mb,,135,5.364,0.64,us,usb000kveq,2013-11-10T12:14:31.339Z,"Kuril Islands",earthquake
+2013-11-10T03:35:42.000Z,52.3258,-168.5115,20.15,4.8,mb,,98,0.68,1.21,us,usb000kvef,2013-11-10T04:21:27.190Z,"72km SSE of Nikolski, Alaska",earthquake
+2013-11-10T02:10:28.700Z,18.3029,-67.3571,74,2.9,Md,16,295.2,0.28746089,0.21,pr,pr13314000,2013-11-10T02:40:31.346Z,"11km W of Stella, Puerto Rico",earthquake
+2013-11-10T02:01:59.000Z,-33.5112,-71.9471,32.7,4.8,mb,,114,0.945,1.01,us,usb000kvdz,2013-11-10T05:56:31.435Z,"31km WNW of San Antonio, Chile",earthquake
+2013-11-09T23:50:57.000Z,-0.0456,67.1846,10,4.6,mb,,102,5.834,0.59,us,usb000kvd7,2013-11-10T07:53:35.695Z,"Carlsberg Ridge",earthquake
+2013-11-09T22:37:50.580Z,35.9375,139.9729,65.49,5.6,mwb,,41,1.548,0.99,us,usb000kvca,2013-11-10T18:25:42.951Z,"2km W of Moriya, Japan",earthquake
+2013-11-09T21:42:30.140Z,50.254,-129.5486,10,4,mb,,168,2.133,0.97,us,usb000kvbk,2013-11-10T06:00:56.000Z,"159km WSW of Port Hardy, Canada",earthquake
+2013-11-09T21:21:04.290Z,38.3582,44.7465,3.3,4.1,mb,,,,1.17,us,usb000kvba,2013-11-10T05:23:44.875Z,"17km N of Salmas, Iran",earthquake
+2013-11-09T21:12:48.000Z,61.5016,-149.9157,47.3,2.9,Ml,57,39.6,0.38447894,0.52,ak,ak10842378,2013-11-10T04:23:01.000Z,"3km SE of Big Lake, Alaska",earthquake
