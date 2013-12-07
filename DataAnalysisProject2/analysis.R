@@ -51,6 +51,12 @@ cv.prunetree <- cv.tree(prunetree, method="misclass")
 
 attach(mtcars)
 layout(matrix(c(1,1,2,3), 2, 2, byrow = TRUE))
+par(mgp=c(3,.5,0))
 plot(prunetree)
-plot(cv.sdtree)
-plot(cv.prunetree)
+title(main="Pruned Classification Tree")
+text(prunetree)
+plot(cv.sdtree,main="Misclassification (Unpruned)")
+
+plot(cv.prunetree,main="Misclassification (Pruned)")
+
+
